@@ -1,1 +1,3 @@
 # hal-enc-and-frec
+
+STM32 HAL ENCODER AND FREQUENCY DETECTION
